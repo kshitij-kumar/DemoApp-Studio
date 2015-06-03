@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo App</string>
+    <string name="action_name">Kshitij</string>
+    <string name="action_licenses">Licenses</string>
+    <string name="connection_error">Unable to load content. Check your network connection and try again.</string>
+    <string name="licenses">Licenses</string>
+    <string name="license_page_style">        p.license { background:grey; }
+        body { font-family: sans-serif; overflow-wrap: break-word; }
+        pre { text-align: justify; background-color: #eeeeee; padding: 1em; white-space: pre-wrap; }</string>
+
+</resources>
